@@ -1,4 +1,4 @@
-# Awesome-Video-Super-Resolution
+# Awesome-Light-Filed-Super-Resolution
 
 ## Chanllenges
 
@@ -7,6 +7,11 @@
 ## Datasets
 
 ## Papers
+### 2021
+Micro-lens Image Stack Upsampling for Densely-Sampled Light Field Reconstruction (**TCI**)  [[paper](https://ieeexplore.ieee.org/document/9496157)]
+
+
+
 ### 2020
 
 Revisiting Temporal Modeling for Video Super-resolution (**BMVC**) [[paper](https://arxiv.org/abs/2001.03360)][[code](https://gjy3035.github.io/NWPU-Crowd-Sample-Code/)]
